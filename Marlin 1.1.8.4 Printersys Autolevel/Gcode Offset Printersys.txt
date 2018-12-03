@@ -1,0 +1,22 @@
+M503 - Ver offset actuales
+M851 Z-0.45  - Marcar offset deseado
+M500 Guardar en la eprom
+
+----------------------
+
+Driver TMC2208
+X 800mv
+Y 800mv
+E 760mv
+
+---------------------
+
+Conexión del sensor conectado a Zmin
+
+Marron - 5V
+Azul - GND
+Negro - D18 (Pin Zmin)
+
+
+
+
